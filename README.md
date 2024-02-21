@@ -49,6 +49,8 @@ public class Character {
             System.out.println("Creating a magic barrier for defense!"");
         } else if (type.equals("Archer")) {
             System.out.println("Using a shield to defend!"");
-        }
-    }
-}
+        	}
+  	  }
+	}
+# UML Diagram
+![strategypattern](https://github.com/jeanfideliom/strategyPattern/assets/63704287/40fb7594-3cbf-4a2c-af43-3600c9941d86)
