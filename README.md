@@ -52,5 +52,7 @@ public class Character {
         	}
   	  }
 	}
-# UML Diagram
-![strategypattern](https://github.com/jeanfideliom/strategyPattern/assets/63704287/40fb7594-3cbf-4a2c-af43-3600c9941d86)
+# UML Diagram:
+![strategypattern](https://github.com/jeanfideliom/strategyPattern/assets/63704287/74dfb61a-6bd0-4c4f-96e9-74ccd65c233b)
+
+
